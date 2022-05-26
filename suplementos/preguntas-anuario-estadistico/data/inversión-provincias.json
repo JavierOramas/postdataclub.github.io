@@ -1,0 +1,645 @@
+
+{
+
+
+    "Pinar del Rio":
+    {
+        "2015": 
+        {
+            "inversion":112.6,
+            
+            "poblacion":589021
+        },
+        "2016": 
+        {
+            "inversion":116.3,
+            
+            "poblacion":588272
+        },
+        "2017": 
+        {
+            "inversion":123.9,
+            
+            "poblacion":586483
+        },
+        "2018": 
+        {
+            "inversion":125.8,
+            
+            "poblacion":585555
+        },
+        "2019": 
+        {
+            "inversion":124.1,
+            
+            "poblacion":584379
+        },
+        "2020": 
+        {
+            "inversion":99.9,
+            
+            "poblacion":583037
+        }
+    
+    },
+    "Artemisa":
+    {
+        "2015": 
+        {
+            "inversion":423.6,
+            
+            "poblacion":503353
+        },
+        "2016": 
+        {
+            "inversion":430.4,
+            
+            "poblacion":506203
+        },
+        "2017": 
+        {
+            "inversion":678.4,
+            
+            "poblacion":508491
+        },
+        "2018": 
+        {
+            "inversion":785.0,
+            
+            "poblacion":511079
+        },
+        "2019": 
+        {
+            "inversion":1041.0,
+            
+            "poblacion":513141
+        },
+        "2020": 
+        {
+            "inversion":958.1,
+            
+            "poblacion":514332
+        }
+    
+    },
+    "La Habana":
+    {
+        "2015": 
+        {
+            "inversion":3067.5,
+            
+            "poblacion":2125320
+        },
+        "2016": 
+        {
+            "inversion":3550.8,
+            
+            "poblacion":2130081
+        },
+        "2017": 
+        {
+            "inversion":4334.5,
+            
+            "poblacion":2129553
+        },
+        "2018": 
+        {
+            "inversion":5172.1,
+            
+            "poblacion":2131480
+        },
+        "2019": 
+        {
+            "inversion":5454.8,
+            
+            "poblacion":2132394
+        },
+        "2020": 
+        {
+            "inversion":5253.6,
+            
+            "poblacion":2132183
+        }
+    
+    },
+    "Mayabeque":
+    {
+        "2015": 
+        {
+            "inversion":144.2,
+            
+            "poblacion":381012
+        },
+        "2016": 
+        {
+            "inversion":97.0,
+            
+            "poblacion":381689
+        },
+        "2017": 
+        {
+            "inversion":81.1,
+            
+            "poblacion":382459
+        },
+        "2018": 
+        {
+            "inversion":92.5,
+            
+            "poblacion":383403
+        },
+        "2019": 
+        {
+            "inversion":79.0,
+            
+            "poblacion":383869
+        },
+        "2020": 
+        {
+            "inversion":107.4,
+            
+            "poblacion":384389
+        }
+    
+    },
+    "Matanzas":
+    {
+        "2015": 
+        {
+            "inversion":341.8,
+            
+            "poblacion":705775
+        },
+        "2016": 
+        {
+            "inversion":353.5,
+            
+            "poblacion":709707
+        },
+        "2017": 
+        {
+            "inversion":395.1,
+            
+            "poblacion":712418
+        },
+        "2018": 
+        {
+            "inversion":433.1,
+            
+            "poblacion":714843
+        },
+        "2019": 
+        {
+            "inversion":378.9,
+            
+            "poblacion":716760
+        },
+        "2020": 
+        {
+            "inversion":367.3,
+            
+            "poblacion":716320
+        }
+    
+    },
+    "Villa Clara":
+    {
+        "2015": 
+        {
+            "inversion":223.4,
+            
+            "poblacion":790191
+        },
+        "2016": 
+        {
+            "inversion":285.0,
+            
+            "poblacion":787857
+        },
+        "2017": 
+        {
+            "inversion":405.3,
+            
+            "poblacion":784244
+        },
+        "2018": 
+        {
+            "inversion":413.3,
+            
+            "poblacion":780749
+        },
+        "2019": 
+        {
+            "inversion":358.2,
+            
+            "poblacion":777500
+        },
+        "2020": 
+        {
+            "inversion":214.5,
+            
+            "poblacion":775091
+        }
+    
+    },
+    "Cienfuegos":
+    {
+        "2015": 
+        {
+            "inversion":126.0,
+            
+            "poblacion":406847
+        },
+        "2016": 
+        {
+            "inversion":129.8,
+            
+            "poblacion":407695
+        },
+        "2017": 
+        {
+            "inversion":164.3,
+            
+            "poblacion":407244
+        },
+        "2018": 
+        {
+            "inversion":280.3,
+            
+            "poblacion":406751
+        },
+        "2019": 
+        {
+            "inversion":139.1,
+            
+            "poblacion":406305
+        },
+        "2020": 
+        {
+            "inversion":127.6,
+            
+            "poblacion":406244
+        }
+    
+    },
+    "Sancti Spiritus":
+    {
+        "2015": 
+        {
+            "inversion":95.2,
+            
+            "poblacion":466251
+        },
+        "2016": 
+        {
+            "inversion":119.9,
+            
+            "poblacion":466359
+        },
+        "2017": 
+        {
+            "inversion":164.4,
+            
+            "poblacion":465931
+        },
+        "2018": 
+        {
+            "inversion":170.5,
+        
+            "poblacion":465780
+        },
+        "2019": 
+        {
+            "inversion":115.3,
+            
+            "poblacion":465078
+        },
+        "2020": 
+        {
+            "inversion":129.7,
+            
+            "poblacion":463844
+        }
+    
+    },
+    "Ciego de Avila":
+    {
+        "2015": 
+        {
+            "inversion":136.2,
+            
+            "poblacion":433036
+        },
+        "2016": 
+        {
+            "inversion":118.0,
+            
+            "poblacion":434914
+        },
+        "2017": 
+        {
+            "inversion":167.2,
+            
+            "poblacion":435170
+        },
+        "2018": 
+        {
+            "inversion":176.1,
+            
+            "poblacion":435006
+        },
+        "2019": 
+        {
+            "inversion":220.5,
+            
+            "poblacion":435588
+        },
+        "2020": 
+        {
+            "inversion":185.5,
+            
+            "poblacion":435326
+        }
+    
+    },
+    "Camaguey":
+    {
+        "2015": 
+        {
+            "inversion":234.1,
+            
+            "poblacion":773600
+        },
+        "2016": 
+        {
+            "inversion":249.3,
+            
+            "poblacion":772210
+        },
+        "2017": 
+        {
+            "inversion":264.0,
+            
+            "poblacion":769863
+        },
+        "2018": 
+        {
+            "inversion":289.7,
+            
+            "poblacion":767138
+        },
+        "2019": 
+        {
+            "inversion":278.1,
+            
+            "poblacion":764794
+        },
+        "2020": 
+        {
+            "inversion":298.7,
+            
+            "poblacion":763389
+        }
+    
+    },
+    "Las Tunas":
+    {
+        "2015": 
+        {
+            "inversion":91.7,
+            
+            "poblacion":537241
+        },
+        "2016": 
+        {
+            "inversion":118.0,
+            
+            "poblacion":537221
+        },
+        "2017": 
+        {
+            "inversion":133.0,
+            
+            "poblacion":536094
+        },
+        "2018": 
+        {
+            "inversion":156.5,
+            
+            "poblacion":535335
+        },
+        "2019": 
+        {
+            "inversion":124.2,
+            
+            "poblacion":535184
+        },
+        "2020": 
+        {
+            "inversion":99.7,
+            
+            "poblacion":533224
+        }
+    
+    },
+    "Holguin":
+    {
+        "2015": 
+        {
+            "inversion":372.4,
+            
+            "poblacion":1036572
+        },
+        "2016": 
+        {
+            "inversion":327.9,
+            
+            "poblacion":1034331
+        },
+        "2017": 
+        {
+            "inversion":359.3,
+            
+            "poblacion":1030024
+        },
+        "2018": 
+        {
+            "inversion":452.5,
+            
+            "poblacion":1027249
+        },
+        "2019": 
+        {
+            "inversion":455.6,
+            
+            "poblacion":1023703
+        },
+        "2020": 
+        {
+            "inversion":434.8,
+            
+            "poblacion":1021591
+        }
+    
+    },
+    "Granma":
+    {
+        "2015": 
+        {
+            "inversion":106.3,
+            
+            "poblacion":834869
+        },
+        "2016": 
+        {
+            "inversion":122.8,
+            
+            "poblacion":831223
+        },
+        "2017": 
+        {
+            "inversion":159.9,
+            
+            "poblacion":826911
+        },
+        "2018": 
+        {
+            "inversion":160.8,
+            
+            "poblacion":823651
+        },
+        "2019": 
+        {
+            "inversion":146.1,
+            
+            "poblacion":819742
+        },
+        "2020": 
+        {
+            "inversion":121.0,
+            
+            "poblacion":817763
+        }
+    
+    },
+    "Santiago de Cuba":
+    {
+        "2015": 
+        {
+            "inversion":316.5,
+            
+            "poblacion":1056355
+        },
+        "2016": 
+        {
+            "inversion":366.4,
+            
+            "poblacion":1053966
+        },
+        "2017": 
+        {
+            "inversion":351.4,
+            
+            "poblacion":1051069
+        },
+        "2018": 
+        {
+            "inversion":432.6,
+            
+            "poblacion":1049256
+        },
+        "2019": 
+        {
+            "inversion":401.7,
+            
+            "poblacion":1046635
+        },
+        "2020": 
+        {
+            "inversion":429.3,
+            
+            "poblacion":1045631
+        }
+    
+    },
+    "Guantanamo":
+    {
+        "2015": 
+        {
+            "inversion":83.6,
+            
+            "poblacion":514909
+        },
+        "2016": 
+        {
+            "inversion":84.2,
+            
+            "poblacion":512964
+        },
+        "2017": 
+        {
+            "inversion":147.5,
+            
+            "poblacion":511093
+        },
+        "2018": 
+        {
+            "inversion":136.2,
+            
+            "poblacion":508552
+        },
+        "2019": 
+        {
+            "inversion":146.6,
+            
+            "poblacion":505854
+        },
+        "2020": 
+        {
+            "inversion":121.7,
+            
+            "poblacion":505606
+        }
+    
+    },
+    "Isla de la Juventud":
+    {
+        "2015": 
+        {
+            "inversion":30.9,
+            
+            "poblacion":84652
+        },
+        "2016": 
+        {
+            "inversion":45.8,
+            
+            "poblacion":845312
+        },
+        "2017": 
+        {
+            "inversion":29.7,
+            
+            "poblacion":843013
+        },
+        "2018": 
+        {
+            "inversion":23.5,
+            
+            "poblacion":83801
+        },
+        "2019": 
+        {
+            "inversion":21.7,
+            
+            "poblacion":83544
+        },
+        "2020": 
+        {
+            "inversion":19.5,
+            
+            "poblacion":83625
+        }
+    
+    }
+}
