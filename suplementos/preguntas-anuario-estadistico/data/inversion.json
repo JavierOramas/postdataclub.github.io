@@ -1,0 +1,125 @@
+{
+    "counties": ["Isla de la Juventud", "Guantanamo", "Santiago de Cuba", "Granma", "Holguin", "Las Tunas", "Camaguey", "Ciego de Avila", "Sancti Spiritus", "Cienfuegos", "Villa Clara", "Matanzas", "Mayabeque", "La Habana", "Artemisa", "Pinar del Rio"],
+    "timeline": [2015, 2016, 2017, 2018, 2019, 2020],
+    "series": [
+        [
+            [30.9, 84652, "Isla de la Juventud", 2015],
+            [83.6, 514909, "Guantanamo", 2015],
+            [316.5, 1056355, "Santiago de Cuba", 2015],
+            [106.3, 834869, "Granma", 2015],
+            [372.4, 1036572, "Holguin", 2015],
+            [91.7, 537241, "Las Tunas", 2015],
+            [234.1, 773600, "Camaguey", 2015],
+            [136.2, 433036, "Ciego de Avila", 2015],
+            [95.2, 466251, "Sancti Spiritus", 2015],
+            [126, 406847, "Cienfuegos", 2015],
+            [223.4, 790191, "Villa Clara", 2015],
+            [341.8, 705775, "Matanzas", 2015],
+            [144.2, 381012, "Mayabeque", 2015],
+            [3067.5, 2125320, "La Habana", 2015],
+            [423.6, 503353, "Artemisa", 2015],
+            [112.6, 589021, "Pinar del Rio", 2015]
+
+        ],
+        [
+            [45.8, 845312, "Isla de la Juventud", 2016],
+            [84.2, 512964, "Guantanamo", 2016],
+            [366.4, 1053966, "Santiago de Cuba", 2016],
+            [122.8, 831223, "Granma", 2016],
+            [327.9, 1034331, "Holguin", 2016],
+            [118, 537221, "Las Tunas", 2016],
+            [249.3, 772210, "Camaguey", 2016],
+            [118, 434914, "Ciego de Avila", 2016],
+            [119.9, 466359, "Sancti Spiritus", 2016],
+            [129.8, 407695, "Cienfuegos", 2016],
+            [285, 787857, "Villa Clara", 2016],
+            [353.5, 709707, "Matanzas", 2016],
+            [97, 381689, "Mayabeque", 2016],
+            [3550.8, 2130081, "La Habana", 2016],
+            [430.4, 506203, "Artemisa", 2016],
+            [116.3, 588272, "Pinar del Rio", 2016]
+
+        ],
+        [
+            [29.7, 843013, "Isla de la Juventud", 2017],
+            [147.5, 511093, "Guantanamo", 2017],
+            [351.4, 1051069, "Santiago de Cuba", 2017],
+            [159.9, 826911, "Granma", 2017],
+            [359.3, 1030024, "Holguin", 2017],
+            [133, 536094, "Las Tunas", 2017],
+            [264, 769863, "Camaguey", 2017],
+            [167.2, 435170, "Ciego de Avila", 2017],
+            [164.4, 465931, "Sancti Spiritus", 2017],
+            [164.3, 407244, "Cienfuegos", 2017],
+            [405.3, 784244, "Villa Clara", 2017],
+            [395.1, 712418, "Matanzas", 2017],
+            [81.1, 382459, "Mayabeque", 2017],
+            [4334.5, 2129553, "La Habana", 2017],
+            [678.4, 508491, "Artemisa", 2017],
+            [123.9, 586483, "Pinar del Rio", 2017]
+
+
+        ],
+        [
+            [23.5, 83801, "Isla de la Juventud", 2018],
+            [136.2, 508552, "Guantanamo", 2018],
+            [432.6, 1049256, "Santiago de Cuba", 2018],
+            [160.8, 823651, "Granma", 2018],
+            [452.5, 1027249, "Holguin", 2018],
+            [156.5, 535335, "Las Tunas", 2018],
+            [289.7, 767138, "Camaguey", 2018],
+            [176.1, 435006, "Ciego de Avila", 2018],
+            [170.5, 465780, "Sancti Spiritus", 2018],
+            [280.3, 406751, "Cienfuegos", 2018],
+            [413.3, 780749, "Villa Clara", 2018],
+            [433.1, 714843, "Matanzas", 2018],
+            [92.5, 383403, "Mayabeque", 2018],
+            [5172.1, 2131480, "La Habana", 2018],
+            [785, 511079, "Artemisa", 2018],
+            [125.8, 585555, "Pinar del Rio", 2018]
+
+        ],
+        [
+            [21.7, 83544, "Isla de la Juventud", 2019],
+            [146.6, 505854, "Guantanamo", 2019],
+            [401.7, 1046635, "Santiago de Cuba", 2019],
+            [146.1, 819742, "Granma", 2019],
+            [455.6, 1023703, "Holguin", 2019],
+            [124.2, 535184, "Las Tunas", 2019],
+            [278.1, 764794, "Camaguey", 2019],
+            [220.5, 435588, "Ciego de Avila", 2019],
+            [115.3, 465078, "Sancti Spiritus", 2019],
+            [139.1, 406305, "Cienfuegos", 2019],
+            [358.2, 777500, "Villa Clara", 2019],
+            [378.9, 716760, "Matanzas", 2019],
+            [79, 383869, "Mayabeque", 2019],
+            [5454.8, 2132394, "La Habana", 2019],
+            [1041, 513141, "Artemisa", 2019],
+            [124.1, 584379, "Pinar del Rio", 2019]
+
+
+        ],
+        [
+            [19.5, 83625, "Isla de la Juventud", 2020],
+            [121.7, 505606, "Guantanamo", 2020],
+            [429.3, 1045631, "Santiago de Cuba", 2020],
+            [121, 817763, "Granma", 2020],
+            [434.8, 1021591, "Holguin", 2020],
+            [99.7, 533224, "Las Tunas", 2020],
+            [298.7, 763389, "Camaguey", 2020],
+            [434.8, 1021591, "Holguin", 2020],
+            [99.7, 533224, "Las Tunas", 2020],
+            [298.7, 763389, "Camaguey", 2020],
+            [185.5, 435326, "Ciego de Avila", 2020],
+            [129.7, 463844, "Sancti Spiritus", 2020],
+            [127.6, 406244, "Cienfuegos", 2020],
+            [214.5, 775091, "Villa Clara", 2020],
+            [367.3, 716320, "Matanzas", 2020],
+            [107.4, 384389, "Mayabeque", 2020],
+            [5253.6, 2132183, "La Habana", 2020],
+            [958.1, 514332, "Artemisa", 2020],
+            [99.9, 583037, "Pinar del Rio", 2020]
+
+        ]
+    ]
+}
